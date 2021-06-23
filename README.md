@@ -14,6 +14,9 @@ Our Codeathon Challenge is to create a universal screening toolkit that any larg
 
 II.	Workflow diagram of screening tool integration to the EHR.
 
+![image](https://user-images.githubusercontent.com/82908318/123143427-9778f880-d428-11eb-962f-8a5bf6a2aa4e.png)
+
+
 III.	Description of the workflow. 
 Google form will be exported as a csv file, then it will be passed through our python script to generate and map to the appropriate Z code(s).
 
