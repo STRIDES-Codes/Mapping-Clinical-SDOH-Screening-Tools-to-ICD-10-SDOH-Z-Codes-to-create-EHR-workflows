@@ -20,7 +20,7 @@ II.	Workflow diagram of screening tool integration to the EHR.
 III.	Description of the workflow. 
 Google form will be exported as a csv file, then it will be passed through our python script to generate and map to the appropriate Z code(s).
 
-IV.	Testing the prototype. Link to the Google form
+IV.	Link to the Google form: https://docs.google.com/forms/d/e/1FAIpQLSeQrjCGVGJCfkFnFe5ESbohJPKMWGuJ6QsmUMNKgDadLwUUxQ/viewform
 
 V.	Additional resources [What can we list here???]
 
