@@ -27,20 +27,22 @@ V.	Softwares:
     Python
     
 VI.	Forthcoming features:
-    Integration with EHR System
-        AthenaHealth
-        Survey generation, API Integration, Drilldown capability within EHR screening form
+    Incorporate Language options for screening tool (i.e. Spanish)
+    Integration with EHR System (for example, AthenaHealth) 
+    Survey generation
+    API Integration
+    Drilldown capability within EHR screening form
     Mapping social assistance recommendations to Z Codes
-    Map Learning materials, referrals, treatment centers, etc.
-    Identify priority learning materials to push to patient portal 
-    Send prompt with top treatment/referral recommendations to clinical staff
-    Accessibility
-      Language options-Screening tool to be translated into a different language (Spanish, for instance).
-
-VII.	Team Members:
-      Tanetta Isler
-      Syed Haqqani
-      Gina Kersey
-      Marilou A. Andres
-      Danielle Finney
+    Map training materials
+    Develop referral capacity
+    Accessiblity
+   
+VII. Team Members:
+ 
+   Marilou A. Andres
+   Danielle Finney 
+   Syed Haqqani
+   Tanetta Isler
+   Gina Kersey
+      
 
