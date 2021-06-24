@@ -22,15 +22,25 @@ Google form will be exported as a csv file, then it will be passed through our p
 
 IV.	Link to the Google form: https://docs.google.com/forms/d/e/1FAIpQLSeQrjCGVGJCfkFnFe5ESbohJPKMWGuJ6QsmUMNKgDadLwUUxQ/viewform
 
-V.	Additional resources [What can we list here???]
-
-VI.	Forthcoming features. 
-Screening tool to be translated into a different language (Spanish, for instance).
+V.	Softwares:
+    Google form
+    Python
+    
+VI.	Forthcoming features:
+    Integration with EHR System
+        AthenaHealth
+        Survey generation, API Integration, Drilldown capability within EHR screening form
+    Mapping social assistance recommendations to Z Codes
+    Map Learning materials, referrals, treatment centers, etc.
+    Identify priority learning materials to push to patient portal 
+    Send prompt with top treatment/referral recommendations to clinical staff
+    Accessibility
+      Language options-Screening tool to be translated into a different language (Spanish, for instance).
 
 VII.	Team Members:
-Tanetta Isler
-Syed Haqqani
-Gina Kersey
-Marilou A. Andres
-Danielle Finney
+      Tanetta Isler
+      Syed Haqqani
+      Gina Kersey
+      Marilou A. Andres
+      Danielle Finney
 
