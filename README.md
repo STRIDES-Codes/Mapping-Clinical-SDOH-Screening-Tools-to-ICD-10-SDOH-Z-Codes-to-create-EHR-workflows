@@ -10,7 +10,7 @@ To reduce health disparities, we first need to identify patients who are at risk
 The solution
 
 Our Codeathon Challenge:
-Our Codeathon Challenge is to create a universal screening toolkit that any large or small health care institutions and academic research can adapt and utilize to collect a patient’s SDOH information. This toolkit can serve as a self-report form. It can also be filled out by any of the patient’s health care team, including the physician. The SDOH data can be exported and automatically mapped to generate specific ICD-10 Z Codes, which then become incorporated into the patients’ electronic health records (EHR). The goal of this brief codeathon project is to develop a prototype electronic health record workflow. This conceptual model demonstrates the utility of auto-generated ICD-10 SDOH Z Codes derived directly from patients' self-report forms.
+Our Codeathon Challenge is to identify a widely used and adaptable social determinants of health screening form applicable in a variety of clincial settings to collect patient’s SDOH information. This can serve as a self-report form. It can also be filled out by the patient or any of the patient’s health care team, including the physician. The SDOH data can then be exported and automatically mapped to identify specific ICD-10 Z Codes, which then become incorporated into the patients’ electronic health records (EHR). The goal of this brief codeathon project is to develop a prototype electronic health record workflow. This conceptual model demonstrates the utility of auto-generated ICD-10 SDOH Z Codes derived directly from patients' self-report forms.
 
 II.	Workflow diagram of screening tool integration to the EHR.
 
@@ -42,7 +42,7 @@ VII. Team Members:
    Marilou A. Andres
    Danielle Finney 
    Syed Haqqani
-   Tanetta Isler
+   Tanetta Isler (Team Lead)
    Gina Kersey
       
 
